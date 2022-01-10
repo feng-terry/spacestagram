@@ -6,6 +6,7 @@ Found here: https://limitless-falls-82121.herokuapp.com/
 # Description
 Pulls images from NASA's Astronomy Picture of the Day (APOD) API and displays the picture alongside other information.
 
+![image](https://user-images.githubusercontent.com/65905153/148843912-272b4504-44a9-4dfe-8840-cd074873a42b.png)
 
 
 # Features
